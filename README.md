@@ -1,6 +1,6 @@
 # gh istio-envoy-version
 
-This `gh` extension resolves the envoy version of an Istio release or any commit SHA.
+This [`gh` CLI extension](https://cli.github.com/manual/gh_extension) resolves the envoy version of an Istio release or any commit SHA.
 
 ## Install
 
